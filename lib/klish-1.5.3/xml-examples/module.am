@@ -1,0 +1,6 @@
+EXTRA_DIST += \
+	xml-examples/clish/module.am \
+	xml-examples/klish/module.am
+
+include $(top_srcdir)/xml-examples/clish/module.am
+include $(top_srcdir)/xml-examples/klish/module.am

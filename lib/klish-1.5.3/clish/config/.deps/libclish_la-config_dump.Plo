@@ -1,0 +1,13 @@
+clish/config/libclish_la-config_dump.lo: clish/config/config_dump.c \
+ lub/dump.h /usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stdarg.h \
+ clish/config/private.h clish/config.h lub/types.h
+
+lub/dump.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stdarg.h:
+
+clish/config/private.h:
+
+clish/config.h:
+
+lub/types.h:

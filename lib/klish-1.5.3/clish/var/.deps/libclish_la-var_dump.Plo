@@ -1,0 +1,20 @@
+clish/var/libclish_la-var_dump.lo: clish/var/var_dump.c lub/dump.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stdarg.h clish/action.h \
+ lub/bintree.h /usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stddef.h \
+ clish/var/private.h clish/var.h lub/types.h
+
+lub/dump.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stdarg.h:
+
+clish/action.h:
+
+lub/bintree.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stddef.h:
+
+clish/var/private.h:
+
+clish/var.h:
+
+lub/types.h:

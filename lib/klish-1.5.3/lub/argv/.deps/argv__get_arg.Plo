@@ -1,0 +1,13 @@
+lub/argv/argv__get_arg.lo: lub/argv/argv__get_arg.c lub/argv/private.h \
+ lub/argv.h /usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stddef.h \
+ lub/c_decl.h lub/types.h
+
+lub/argv/private.h:
+
+lub/argv.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stddef.h:
+
+lub/c_decl.h:
+
+lub/types.h:

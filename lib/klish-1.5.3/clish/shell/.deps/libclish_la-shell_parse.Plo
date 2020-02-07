@@ -1,0 +1,153 @@
+clish/shell/libclish_la-shell_parse.lo: clish/shell/shell_parse.c \
+ /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/stdlib.h /usr/include/bits/string3.h /usr/include/assert.h \
+ lub/string.h lub/c_decl.h lub/types.h lub/system.h lub/argv.h \
+ lub/c_decl.h lub/types.h clish/shell/private.h lub/bintree.h \
+ tinyrl/tinyrl.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/bits/stdio2.h tinyrl/history.h \
+ clish/shell.h /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/time.h /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h clish/view.h \
+ clish/command.h clish/types.h clish/pargv.h clish/ptype.h clish/param.h \
+ clish/var.h clish/action.h clish/config.h clish/nspace.h \
+ /usr/include/regex.h /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h konf/net.h konf/buf.h
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/string3.h:
+
+/usr/include/assert.h:
+
+lub/string.h:
+
+lub/c_decl.h:
+
+lub/types.h:
+
+lub/system.h:
+
+lub/argv.h:
+
+lub/c_decl.h:
+
+lub/types.h:
+
+clish/shell/private.h:
+
+lub/bintree.h:
+
+tinyrl/tinyrl.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/4.4.5/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+tinyrl/history.h:
+
+clish/shell.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/bits/setjmp.h:
+
+clish/view.h:
+
+clish/command.h:
+
+clish/types.h:
+
+clish/pargv.h:
+
+clish/ptype.h:
+
+clish/param.h:
+
+clish/var.h:
+
+clish/action.h:
+
+clish/config.h:
+
+clish/nspace.h:
+
+/usr/include/regex.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/sys/sysmacros.h:
+
+konf/net.h:
+
+konf/buf.h:
